@@ -1,3 +1,4 @@
 # WORKSPACE
 My first time to git
-Author- Sachin Kumar(IIT ISM)
+Author- Sachin Kumar(IIT ISM DHANBAD)
+COMPUTER SCIENCE AND ENGINEERING
